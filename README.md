@@ -1,4 +1,4 @@
-![MasterHead]([https://mir-s3-cdn-cf.behance.net/project_modules/fs/67607955080161.597768d22e415.gif](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif))
+[![MasterHead]([https://mir-s3-cdn-cf.behance.net/project_modules/fs/67607955080161.597768d22e415.gif](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif))]
 <h1 align="center">Hi 👋, I'm Vishnu K V</h1>
 <h3 align="center">I m currently pursuing Master's in Data Science from Reva University.</h3>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif">
